@@ -6,3 +6,7 @@ print(5)
 
 # This line prints the string 'Bye' to the console.
 print('Bye')
+
+# Addition
+result = 5 + 3
+print(result)
